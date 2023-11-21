@@ -11,7 +11,7 @@ const ListadoNoticias = () => {
 
     const totalPaginas = Math.ceil(totalNoticias / 20)
 
-    console.log(Math.ceil(totalPaginas))
+
   return (
     <>
         <Typography 
